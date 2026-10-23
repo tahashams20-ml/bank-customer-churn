@@ -4,7 +4,7 @@ A full-stack machine learning web app that predicts whether a bank customer is l
 
 ## Live Demo
 
-[Customer Churn Prediction](https://churn-lake.vercel.app/)
+[Home - Customer Churn Prediction](https://bankchurn-kappa.vercel.app/)
 
 ---
 
@@ -110,5 +110,6 @@ Metrics for the churn class are computed at the tuned decision threshold of **0.
 - **Data / ML**: Python, Pandas, NumPy, Scikit-learn
 - **Frontend**: HTML / CSS / JavaScript
 - **Deployment**: Vercel
+
 
 If you found this project useful, please give it a star!
